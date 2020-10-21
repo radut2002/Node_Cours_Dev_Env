@@ -1,2 +1,2 @@
 # js-dev-env-demo
-js-dev-env-demo test main
+js-dev-env-demo test feature-2
